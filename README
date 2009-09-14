@@ -1,0 +1,15 @@
+Beakr - A simple conversation crawler/aggregator for twitter, facebook, etc.. Do with it what you will.
+
+Author(s): Caige Nichols, Evan Wyloge 
+
+Concept part of the 2009 Arizona State University News21 Project.
+
+Dependencies: django, tango( simplejson, oauth ), sqlalchemy, PyYAML.
+
+Installation of Tango:
+
+Clone a copy of Tango into a temporary directory. We'll then move tango.py to our site-packages directory. You should extract to your virtual environment if you're using one.
+
+git clone git://github.com/ryanmcgrath/tango.git [temporary path]
+mv tango.py [site-packages directory]
+

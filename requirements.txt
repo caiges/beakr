@@ -1,0 +1,5 @@
+oauth
+simplejson
+sqlalchemy
+django
+
